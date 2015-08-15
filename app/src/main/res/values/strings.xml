@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NeedForCode</string>
+    <string name="output">Output</string>
+    <string name="enter_text_in_range">Enter numerical number between range 0-100000</string>
+    <string name="give_output_in_american_version">Give output in American version</string>
+    <string name="venturesity">Venturesity</string>
+    <string name="declaration">** American version would not use lakh, crore, arab etc... units in their system unlike Asians. They would use million, billion and so on.\nThis app was submitted to Venturesity-Need for Code contest by Venkatesh Devale.\nContact: mr.venkatesh.d@gmail.com\nMob no: 7259926494</string>
+</resources>
