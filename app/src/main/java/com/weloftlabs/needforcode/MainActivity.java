@@ -16,7 +16,7 @@ import android.widget.TextView;
 public class MainActivity extends ActionBarActivity {
 
     // Variables
-    private static final String[] mTensPower = {"", " thousand"};
+    private static final String[] mTensPower = {"", " thousand", " lakh"};
     private static final String[] mTensMultiple = {"", " ten", " twenty", " thirty", " forty",
             " fifty", " sixty", " seventy", " eighty", " ninety"};
     private static final String[] mTillTwenty = {"", " one", " two", " three", " four", " five",
