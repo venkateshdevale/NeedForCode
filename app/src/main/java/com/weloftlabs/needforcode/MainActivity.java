@@ -15,11 +15,11 @@ import android.widget.TextView;
 
 public class MainActivity extends ActionBarActivity {
 
-    // Variables
-    private static final String[] mTensPower = {"", " thousand", " lakh"};
-    private static final String[] mTensMultiple = {"", " ten", " twenty", " thirty", " forty",
+    // Immutable fields
+    private final String[] mTensPower = {"", " thousand", " lakh"};
+    private final String[] mTensMultiple = {"", " ten", " twenty", " thirty", " forty",
             " fifty", " sixty", " seventy", " eighty", " ninety"};
-    private static final String[] mTillTwenty = {"", " one", " two", " three", " four", " five",
+    private final String[] mTillTwenty = {"", " one", " two", " three", " four", " five",
             " six", " seven", " eight", " nine", " ten", " eleven", " twelve", " thirteen",
             " fourteen", " fifteen", " sixteen", " seventeen", " eighteen", " nineteen"};
 
